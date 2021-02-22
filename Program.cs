@@ -17,7 +17,6 @@ namespace Geometri
             square4.Side = 5;
             square5.Side = 10;
 
-            Console.WriteLine(square1.Side);
             Console.WriteLine(square1.omkres());
             Console.WriteLine(square2.omkres());
             Console.WriteLine(square3.omkres());
